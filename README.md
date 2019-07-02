@@ -155,4 +155,11 @@ After downloading the code, simply run:
 
 # Related papers
 
-I'm working on a paper describing the performance using this library. Will update soon.
+```
+@inproceedings{liu2019speaker,
+   author={Yi Liu, Liang He, Jia Liu},
+   Title = {Large Margin Softmax Loss for Speaker Verification},
+   BookTitle = {Proc. INTERSPEECH},
+   Year = {2019}
+}
+```
