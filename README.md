@@ -157,7 +157,7 @@ After downloading the code, simply run:
 
 ```
 @inproceedings{liu2019speaker,
-   author={Yi Liu, Liang He, Jia Liu},
+   author={Yi Liu and Liang He and Jia Liu},
    Title = {Large Margin Softmax Loss for Speaker Verification},
    BookTitle = {Proc. INTERSPEECH},
    Year = {2019}
