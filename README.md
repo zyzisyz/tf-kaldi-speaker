@@ -93,8 +93,10 @@ Again, the backend classifier is integrated using Kaldi.
 
 	Training data: NIST SRE04-08, SWBD
 	
-	The SRE models are available upon request.
+	Only the models trained with large margin softmax are released at this moment.
+	[Google Drive](https://drive.google.com/open?id=1yWE3yLiSsCSz-EPdUAstyozHWcgcThLQ) and
 
+        [BaiduYunDisk](https://pan.baidu.com/s/1MVz7haYgozQ8ViJlII_YFw) (extraction code: rt9p)
 
 # Pros and cons
 
