@@ -1,3 +1,7 @@
+Recently, I'm very busy with my PhD thesis so I can't udpate the code here. Since last commit some new experiments are conducted and multi-gpu is supported. I will commit the change once I finish the thesis writing (or hopefully when I got some spare time.) Thank you for watching this project.
+
+----
+
 # Overview
 
 The **tf-kaldi-speaker** implements a neural network based speaker verification system
