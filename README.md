@@ -132,7 +132,7 @@ Deeper network is worth trying since we have enough training data.
 
 # Acknowledgements
 
-The computational resources are initially provided by Prof. Gales, and then mainly supported by Dr. Liang He.
+The computational resources are initially provided by Prof. Mark Gales in Cambridge University Engineering Department (CUED), and now mainly supported by Dr. Liang He in Tsinghua University Electronic Engineering Department (THUEE).
 
 
 # Last ...
