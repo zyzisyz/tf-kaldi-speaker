@@ -1,8 +1,6 @@
 Recently, I'm very busy with my PhD thesis so I can't udpate the code here. Since last commit some new experiments are conducted and multi-gpu is supported. I will commit the change once I finish the thesis writing (or hopefully when I got some spare time.) Thank you for watching this project.
 
-**Note** When you extract the speaker embedding using extract.sh, make sure that your TensorFlow is compiled WITHOUT MKL. As I know, some versions of TF installed by anaconda are compiled with MKL. It will use multiple threads when TF is running on CPUs. This is harmful if you run multiple processes (say 40). The threads conflict will make the extraction extreamly slow.
-
-For me, I use pip to install TF 1.12, and that works. 
+**Note** When you extract the speaker embedding using extract.sh, make sure that your TensorFlow is compiled WITHOUT MKL. As I know, some versions of TF installed by anaconda are compiled with MKL. It will use multiple threads when TF is running on CPUs. This is harmful if you run multiple processes (say 40). The threads conflict will make the extraction extreamly slow. For me, I use pip to install TF 1.12, and that works. 
 
 ----
 
