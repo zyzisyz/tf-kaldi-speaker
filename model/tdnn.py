@@ -262,8 +262,11 @@ if __name__ == "__main__":
             outputs = embeddings
             if params.dict["feature_norm"]:
                 outputs = l2_scaling(outputs, params.feature_scaling_factor)
+
             loss = asoftmax(outputs, labels, num_labels, params, is_training=True, reuse_variables=tf.AUTO_REUSE)
+
             grads = tf.gradients(loss, embeddings)
+
             with tf.Session() as sess:
                 sess.run(tf.global_variables_initializer())
                 w_val = sess.run(params.softmax_w)
